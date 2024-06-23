@@ -15,14 +15,7 @@ Built with the latest Next.js and TypeScript, ZcCllab a widely used video confer
   </div>
 
   <h3 align="center">ZCollab</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
-
-<a href="https://youtu.be/R8CIO1DZ2b8" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
