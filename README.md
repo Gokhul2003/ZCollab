@@ -113,8 +113,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="snippets">🕸️ Snippets</a>
 
-<details>
-<summary><code>app/globals.css</code></summary>
 
 ```css
 @tailwind base;
@@ -231,10 +229,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 }
 ```
 
-</details>
-
-<details>
-<summary><code>tailwind.config.ts</code></summary>
 
 ```typescript
 import type { Config } from 'tailwindcss';
@@ -308,9 +302,6 @@ export default config;
 ```
 
 </details>
-
-<details>
-<summary><code>components/MeetingCard.tsx</code></summary>
 
 ```typescript
 "use client";
