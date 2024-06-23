@@ -16,7 +16,7 @@ Built with the latest Next.js and TypeScript, ZcCllab a widely used video confer
 
   <h3 align="center">ZCollab</h3>
 </div>
-## <a name="tech-stack">⚙️ Tech Stack</a>
+##<a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
 - TypeScript
