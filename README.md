@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-## <a name="introduction">🤖 ZCollab - A Video Conferency Application</a>  
+ <h3>🤖 ZCollab - A Video Conferency Application</h3>  
 
 Built with the latest Next.js.ZCollab a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
   <div>
